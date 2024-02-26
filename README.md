@@ -20,5 +20,30 @@ https://delightful-coast-04aece010.4.azurestaticapps.net/
 https://youtu.be/FasxybOc9pk 
 
 **Note :-** I have Explained All the Implementation of Azure Services in Youtube Video .
+</br>
+</br>
+</br>
+**MuscleFix Website Home Page** 
+</br>
+![MuscleFix Website Home Page ](Screenshots/website.png)
+</br>
+</br>
+**Post Request Send by Form to Azure Function Service** 
+</br>
+![Post Request Send by Form to Azure Function Service ](Screenshots/formpostrequest.png)
+</br></br>
+**In Response to Post Request Function App is Sending Response Thankyou Page to Client !** 
+</br>
+![In Response to Post Request Function App is Sending Response Thankyou Page to Client !](Screenshots/responsepage.png) </br></br>
+**ChatBot Services Integrated in Website** 
+</br>
+![ChatBot Services Integrated in Website ](Screenshots/chatbot.png) </br></br>
+**Function App Service Azure Console** 
+</br>
+![Function App Service Azure Console ](Screenshots/functionapp.png) </br></br>
+**Static Web App Service** 
+</br>
+![Static Web App Service ](Screenshots/staticwebapp.png)
+</br></br>
 
 💌 Thankyou Future Ready Talent Team & Microsoft for providing me Amazing Opportunity to Learn Azure , AI & Github !  .
