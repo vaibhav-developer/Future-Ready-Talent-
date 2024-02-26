@@ -1,6 +1,8 @@
 # AI-Powered-Musclefix-Fitness-Gym-Website 
 This is Project i have developed to help fitness enthusiast and also Developed to Implement all the knowledge i have gained throughout this internship Process !
 
+**Domain :** LifeStyle
+
 **Technology Used !.**
 * → HTML5
 * → CSS 3
